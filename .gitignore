@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# C++ files 
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+Debug
+.vscode
+.vs
